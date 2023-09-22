@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.house {
+  display: flex;
+  margin-top: 5em;
+  border: 1px solid red;
+  padding: 5px;
+}
+
+body{
+  background-color:beige;
+}
+
+.App{
+   
+  margin-top: 5em;
+  border: 1px solid black;
+  padding: 5px;
+
+}
